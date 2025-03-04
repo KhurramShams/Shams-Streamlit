@@ -14,7 +14,7 @@ with col1:
 
 with col2:
     st.title("Shams Shaikh", anchor=False)
-    st.write("🌐 Expert WordPress Developer | 🚀 Digital Marketing Manager | 🎯 Help Businesses To Move Forward.")
+    st.write("Machine Learning | LLM  |🌐 Expert WordPress Developer | 🚀 Digital Marketing Manager | 🎯 Help Businesses To Move Forward.")
     if st.button("Contect Me"):
         show_contect_form()
         
