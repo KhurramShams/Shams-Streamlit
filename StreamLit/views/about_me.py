@@ -10,7 +10,7 @@ def show_contect_form():
 col1, col2 = st.columns(2,gap="small",vertical_alignment="center")
 
 with col1:
-    st.image("assets/Profile picture.png",width=200)
+    st.image("StreamLit/assets/Profile picture.png",width=200)
 
 with col2:
     st.title("Shams Shaikh", anchor=False)
