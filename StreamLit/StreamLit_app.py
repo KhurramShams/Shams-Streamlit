@@ -28,5 +28,5 @@ Appmenu.run()
 
 #-------- Header Footer -----------#
 
-st.logo("assets/logo.png")
+st.logo("StreamLit/assets/logo.png")
 st.sidebar.text("Develop with ❤ By Shams")
