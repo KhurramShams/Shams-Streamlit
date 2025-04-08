@@ -19,21 +19,32 @@ with col2:
         show_contect_form()
         
 
+Absolutely! Here's your **Updated Portfolio Website Content** wrapped in a `st.write('''...''')` block with proper formatting, so you can directly use it in your **Streamlit app**:
+
+```python
 st.write("""
 # 👋 Welcome to My Portfolio
+
 I'm an aspiring **AI & Machine Learning Developer** with a strong foundation in **Python**, **LLMs**, and **LangChain**. I’m passionate about building intelligent applications that combine smart models with intuitive user experiences—often using tools like **Streamlit** to bring ideas to life in interactive ways.
+
 ---
-### 💻 Technical Experience
+
+## 💻 Technical Experience
+
 Alongside my journey in AI, I also bring over a year of hands-on experience as a **WordPress Developer**, where I’ve built and managed dynamic, responsive websites tailored to client needs. My ability to blend design, development, and strategy ensures that every site I build is both functional and impactful.
+
 ---
-### 📈 Digital Marketing Expertise
+
+## 📈 Digital Marketing Expertise
 
 In addition, I have a solid background as a **Digital Marketer**, specializing in:
 - Strategic **social media marketing campaigns**
 - Managing brand presence across platforms
 - Creating content that drives engagement
+
 ---
-### 🌟 Why Work With Me?
+
+## 🌟 Why Work With Me?
 
 This unique combination of **technical**, **creative**, and **strategic** skills allows me to approach problems from multiple angles and deliver solutions that not only work—but wow.
 
@@ -41,6 +52,9 @@ I'm always open to collaboration, freelance projects, or innovative ideas.
 
 **Let’s connect and build something intelligent together! 🚀**
 """)
+```
+
+Let me know if you'd like to break this into **multiple sections or tabs** using Streamlit widgets like `st.tabs()`, `st.columns()`, or `st.expander()`—I can help with that too!
      
 
 
