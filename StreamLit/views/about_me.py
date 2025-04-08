@@ -21,7 +21,7 @@ with col2:
 st.write("""
 # 👋 Welcome to My Portfolio
 
-I'm an aspiring **AI & Machine Learning Developer** with a strong foundation in **Python**, **LLMs**, and **LangChain**. I’m passionate about building intelligent applications that combine smart models with intuitive user experiences—often using tools like **Streamlit** to bring ideas to life in interactive ways.
+I'm an aspiring **AI & Machine Learning Developer** with a strong foundation in **Python**, **LLMs**, and **LangChain** **Chat-Bots**. I’m passionate about building intelligent applications that combine smart models with intuitive user experiences—often using tools like **Streamlit** to bring ideas to life in interactive ways.
 
 ---
 
