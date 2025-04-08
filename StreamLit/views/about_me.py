@@ -18,10 +18,6 @@ with col2:
     if st.button("Contect Me"):
         show_contect_form()
         
-
-Absolutely! Here's your **Updated Portfolio Website Content** wrapped in a `st.write('''...''')` block with proper formatting, so you can directly use it in your **Streamlit app**:
-
-```python
 st.write("""
 # 👋 Welcome to My Portfolio
 
@@ -52,11 +48,6 @@ I'm always open to collaboration, freelance projects, or innovative ideas.
 
 **Let’s connect and build something intelligent together! 🚀**
 """)
-```
-
-Let me know if you'd like to break this into **multiple sections or tabs** using Streamlit widgets like `st.tabs()`, `st.columns()`, or `st.expander()`—I can help with that too!
-     
-
 
 col3,col4 = st.columns(2,gap="small",vertical_alignment="center")
 
